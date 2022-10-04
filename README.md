@@ -2,7 +2,7 @@
 This is a basic python program to change the MAC address of the interfaces present in kali linux.
 ## Installation
 ```
-git clone link
+git clone https://github.com/a2002simar/mac-changer.git
 ```
 ## Usage
 ```
